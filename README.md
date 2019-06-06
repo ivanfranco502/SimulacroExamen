@@ -23,6 +23,8 @@ Recorrer la lista y, por cada elemento, informar por consola area y perimetro.
 
 
 4 - Que son el CLR y el BCL
+
 5 - Por que el método Main es static ? 
+
 6 - Para qué sirve la sentencia using. Dar un ejemplo.
 
